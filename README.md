@@ -1,4 +1,3 @@
-<link href="https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,500,700,900" rel="stylesheet">
 - 👋 Hi, I’m @lingjunwan
 - 👀 I’m passionate about Java and learning more about programming
 - 🌱 I’m currently engaged in a fullstack program
