@@ -1,6 +1,8 @@
+<h1 align="center">Hi everyone, I’m Lingjun Wan👋 </h1>
+<h3 align="center">A passionate fullstack developer from Montreal</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingjunwan&label=Profile%20views&color=0e75b6&style=flat" alt="lingjun" /> </p>
 
-- 👋 Hi, I’m Lingjun
+
 - 🔭 I’m currently looking for a job as a fullstack developer  
 - 💞️ I’m passionate about JavaScript and learning more about programming
 - 🌱 I’m currently engaged in a fullstack program
@@ -15,6 +17,9 @@
 <a href="https://codesandbox.com/lingjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="lingjun" height="30" width="40" /></a>
 <a href="https://twitter.com/moi_william" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lingjun" height="30" width="40" /></a>
 </p>
+
+<br/><h3 align="left">Laugh of the Day:</h3>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card"/>
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
