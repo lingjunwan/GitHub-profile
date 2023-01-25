@@ -1,4 +1,11 @@
-<h1 align="center">Hi everyone, I’m Lingjun Wan👋 </h1>
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611da9ad35472a6f7a0c1297c3ef9c0655388c5552a&rid=giphy.gif&ct=g" width="500"/>
+</div>
+
+<h1 align="center">
+  Hi everyone, I’m Lingjun Wan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <h3 align="center">A passionate fullstack developer from Montreal</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingjunwan&label=Profile%20views&color=0e75b6&style=flat" alt="lingjun" /> </p>
 
