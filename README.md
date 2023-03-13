@@ -15,7 +15,7 @@
 - 🌱 I’m currently engaged in a fullstack program
 - 👀 I’m looking to collaborate on JavaScript Project
 - ⚡ Fun fact: I love making geeky crochet projects and solving puzzles
-- 📫 You can reach me at williamwanwan@hotmail.com  
+- 📫 You can reach me at lingjun.wann@gmail.com  
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
