@@ -3,17 +3,17 @@
 </div>
 
 <h1 align="center">
-  Hi everyone, I’m Lingjun Wan
+  Hi everyone, I’m William Wan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h3 align="center">A passionate fullstack developer from Montreal</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingjunwan&label=Profile%20views&color=0e75b6&style=flat" alt="lingjun" /> </p>
 
 
-- 🔭 I’m currently looking for a job as a fullstack developer  
+- 🔭 I’m currently looking for a fulltime job as a fullstack developer  
 - 💞️ I’m passionate about JavaScript and learning more about programming
-- 🌱 I’m currently engaged in a fullstack program
-- 👀 I’m looking to collaborate on JavaScript Project
+- 🌱 I’m currently engaged in a fullstack project
+- 👀 I’m looking to collaborate on MERN Project
 - ⚡ Fun fact: I love making geeky crochet projects and solving puzzles
 - 📫 You can reach me at lingjun.wann@gmail.com  
 <br/>
