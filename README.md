@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingjunwan&label=Profile%20views&color=0e75b6&style=flat" alt="lingjun" /> </p>
 
 
-- 🔭 I’m currently looking for a fulltime job as a fullstack developer  
+- 🔭 I’m currently working as a fullstack developer  
 - 💞️ I’m passionate about JavaScript and learning more about programming
 - 🌱 I’m currently engaged in a fullstack project
 - 👀 I’m looking to collaborate on MERN Project
